@@ -5,10 +5,10 @@ Table of contents
 =================
 
 <!--ts-->
-   * [INTRODUCTION](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#design-specification-of-opamp)
-   * [ALGORITHM](#public)
-   * [RESULTS](#public)
-     * [WAVEFORMS](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#common-centriod)
+   * [INTRODUCTION](https://github.com/Chetan-G-Gokhale/16-Bit-BinaryDivider#introduction)
+   * [ALGORITHM](https://github.com/Chetan-G-Gokhale/16-Bit-BinaryDivider#algorithmn)
+   * [RESULTS](https://github.com/Chetan-G-Gokhale/16-Bit-BinaryDivider#results)
+     * [WAVEFORMS](https://github.com/Chetan-G-Gokhale/16-Bit-BinaryDivider#waveforms)
 <!--te-->
 
 <br>
